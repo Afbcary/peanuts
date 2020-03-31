@@ -1,8 +1,7 @@
 ### Using OIDC-Client-js
 [Github](https://github.com/IdentityModel/oidc-client-js)
-[Docs](https://github.com/IdentityModel/oidc-client-js/wiki)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Docs](https://github.com/IdentityModel/oidc-client-js/wiki)
 
 ## Available Scripts
 
